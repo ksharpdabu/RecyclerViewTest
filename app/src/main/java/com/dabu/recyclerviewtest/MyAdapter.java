@@ -20,6 +20,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.PersonViewHolder> 
         this.persons = persons;
     }
 
+
     @Override
     public PersonViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
 
